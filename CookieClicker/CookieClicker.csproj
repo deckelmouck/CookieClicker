@@ -4,6 +4,11 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>CookieClicker.Program</StartupObject>
+    <Authors>Nikolas Palm</Authors>
+    <Company />
+    <Copyright>Nikolas Palm 2020</Copyright>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
 
 </Project>
