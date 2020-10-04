@@ -9,3 +9,12 @@ simple Cookie Clicker application
   * 25x
   * 50x
   * 100x
+  
+### environment
+
+Visual Studio 2019 Community Edition
+Windows Forms App (.NET Core)
+
+### Screenshot
+
+![Screenshot of CookieClicker](https://deckelmouck.github.com/images/screenshot01.png)
