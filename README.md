@@ -17,4 +17,4 @@ Windows Forms App (.NET Core)
 
 ### Screenshot
 
-![Screenshot of CookieClicker](https://deckelmouck.github.com/images/screenshot01.png)
+![Screenshot](https://deckelmouck.github.com/images/screenshot01.png)
